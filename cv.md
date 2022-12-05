@@ -3,7 +3,7 @@
 ## I'm 19 years old student, my goal is to achieve good programming skills, no experience, but I want to learn something new.
 ### Basic HTML, CSS.
 
-'''
+```
 function evenOrOdd(number) { 
   
   if (number % 2 == 0) {
@@ -14,7 +14,7 @@ function evenOrOdd(number) {
     
   } 
   
-'''
+```
 
 #### No work experience so far
 
