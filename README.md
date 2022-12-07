@@ -1,1 +1,1 @@
-# rsschool-cv
+https://Prichelic.github.io/rsschool-cv/cv
